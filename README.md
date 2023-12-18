@@ -3,7 +3,7 @@
 ## Titanic Dataset: Data Cleaning and Exploratory Data Analysis
 
 ## Overview
-Second task of PRodigy InfoTech m1 Data  Science intership
+Second task of Prodigy InfoTech m1 Data  Science intership
 This project is dedicated to performing data cleaning and exploratory data analysis (EDA) on the Titanic dataset.
 
 
